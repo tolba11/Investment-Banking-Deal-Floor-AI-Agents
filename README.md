@@ -54,10 +54,10 @@ touch the web.
 | | Agents | Default |
 |---|---|---|
 | **Research** | Market Intelligence, Industry Analysis, Company Research, Comparable Analysis, Precedent Transactions, Buyer Targeting, Investor Targeting, Debt Sourcing, Equity Sourcing | Perplexity Sonar Pro |
-| **Analysis** | The other 33 | Claude Opus 4.8 |
+| **Analysis** | The other 33 | Claude Opus 5 & 4.8 |
 | **Intake** | Reads each source document | Claude Haiku 4.5 |
 
-All three are switchable in the sidebar. Available models: Claude Opus 4.8,
+All three are switchable in the sidebar. Available models: Claude Opus 5 & 4.8,
 Fable 5, Sonnet 5, Haiku 4.5; Perplexity Sonar, Sonar Pro, Sonar Reasoning
 Pro, Deep Research.
 
